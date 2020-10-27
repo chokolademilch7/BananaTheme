@@ -2,7 +2,7 @@
   "name": "banana-theme",
   "displayName": "Banana Theme",
   "description": "Banana theme.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "chokolademilch7",
   "engines": {
     "vscode": "^1.50.0"
