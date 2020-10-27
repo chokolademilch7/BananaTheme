@@ -1,21 +1,22 @@
 {
-    "name": "banana-theme",
-    "displayName": "Banana Theme",
-    "description": "Banana theme.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.50.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Banana Light",
-                "uiTheme": "vs",
-                "path": "./themes/Banana Light-color-theme.json"
-            }
-        ]
-    }
+  "name": "banana-theme",
+  "displayName": "Banana Theme",
+  "description": "Banana theme.",
+  "version": "0.0.1",
+  "publisher": "chokolademilch7",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Banana Light",
+        "uiTheme": "vs",
+        "path": "./themes/Banana Light-color-theme.json"
+      }
+    ]
+  }
 }

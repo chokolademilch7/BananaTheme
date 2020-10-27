@@ -10,7 +10,7 @@
 		"sideBar.foreground": "#700053",
 		"editor.background": "#f2f3ee",
 		"editor.foreground": "#333333",
-		"editorCursor.foreground": "#ffce00",
+		"editorCursor.foreground": "#536400",
 		"editorLineNumber.foreground": "#536400",
 		"editorWarning.foreground": "#ffbb00",
 		"editorError.foreground": "#e55b7e"
