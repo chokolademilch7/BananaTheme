@@ -3,6 +3,10 @@
   "displayName": "Banana Theme",
   "description": "Banana theme.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chokolademilch7/BananaTheme"
+  },
   "publisher": "chokolademilch7",
   "engines": {
     "vscode": "^1.50.0"
