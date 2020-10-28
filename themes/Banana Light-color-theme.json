@@ -8,6 +8,8 @@
 		"statusBar.foreground": "#700053",
 		"sideBar.background": "#f2f3ee",
 		"sideBar.foreground": "#700053",
+		"focusBorder": "#ffce00",
+		"list.focusBackground": "#ffeb8470",
 		"list.activeSelectionBackground": "#FFEB84",
 		"list.activeSelectionForeground": "#700053",
 		"activityBar.background": "#FFEB84",
