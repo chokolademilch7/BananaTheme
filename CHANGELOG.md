@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.3] - 2020-10-28
+### Changed
+- Side Bar background-color yellow => white
 
 ## [1.1.2] - 2020-10-28
 ### Changed
