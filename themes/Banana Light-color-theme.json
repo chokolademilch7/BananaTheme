@@ -4,6 +4,7 @@
 	"colors": {
 		"titleBar.activeBackground": "#ffce00",
 		"titleBar.activeForeground": "#591035",
+		"statusBar.noFolderBackground": "#ffce00",
 		"statusBar.background": "#ffce00",
 		"statusBar.foreground": "#591035",
 		"sideBar.background": "#f2f3ee",
