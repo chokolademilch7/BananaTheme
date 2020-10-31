@@ -13,6 +13,7 @@
 		"list.focusBackground": "#ffeb8470",
 		"list.activeSelectionBackground": "#FFEB84",
 		"list.activeSelectionForeground": "#591035",
+		"tree.indentGuidesStroke": "#ffce00",
 		"activityBar.background": "#FFEB84",
 		"activityBar.foreground": "#700053",
 		"activityBar.inactiveForeground": "#70005256",

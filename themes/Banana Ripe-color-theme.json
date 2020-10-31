@@ -16,6 +16,7 @@
     "list.activeSelectionForeground": "#660000",
     "list.inactiveSelectionBackground": "#ffeb843a",
     "list.hoverBackground": "#ffeb843a",
+    "tree.indentGuidesStroke": "#efb9238e",
     "activityBar.background": "#1a1918",
     "activityBar.foreground": "#EFB923",
     "activityBar.inactiveForeground": "#efb9238e",
