@@ -23,7 +23,7 @@
       },
       {
         "label": "Banana Ripe",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Banana Ripe-color-theme.json"
       }
     ]
