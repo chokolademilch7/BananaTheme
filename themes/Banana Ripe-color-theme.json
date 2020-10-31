@@ -125,6 +125,13 @@
       }
     },
     {
+      "name": "Variables ",
+      "scope": ["variable.object.property"],
+      "settings": {
+        "foreground": "#F2F3EE"
+      }
+    },
+    {
       "name": "Functions",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
@@ -140,7 +147,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#94036e"
+        "foreground": "#c40391"
       }
     },
     {
