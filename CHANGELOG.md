@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.3.0] - 2020-11-01
+### Changed
+- Editor Backgound color in Ripe theme.
+
 ## [1.2.0] - 2020-11-01
 ### Added
 - Editor LineNumberHighLight color in Ripe theme.
