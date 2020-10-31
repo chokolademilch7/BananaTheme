@@ -26,6 +26,7 @@
     "editor.selectionBackground": "#efb92325",
     "editorCursor.foreground": "#ffbb00",
     "editorLineNumber.foreground": "#efb9238e",
+    "editorLineNumber.activeForeground": "#ffbb00",
     "editorWarning.foreground": "#ffbb00",
     "editorError.foreground": "#e55b7e",
     "editorHoverWidget.background": "#1a1918",
