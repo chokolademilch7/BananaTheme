@@ -9,7 +9,7 @@
   },
   "publisher": "chokolademilch7",
   "engines": {
-    "vscode": "^1.50.0"
+    "vscode": "*"
   },
   "categories": [
     "Themes"
