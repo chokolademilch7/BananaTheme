@@ -20,6 +20,11 @@
         "label": "Banana Light",
         "uiTheme": "vs",
         "path": "./themes/Banana Light-color-theme.json"
+      },
+      {
+        "label": "Banana Ripe",
+        "uiTheme": "vs",
+        "path": "./themes/Banana Ripe-color-theme.json"
       }
     ]
   }
