@@ -17,6 +17,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Banana Green",
+        "uiTheme": "vs",
+        "path": "./themes/Banana Green-color-theme.json"
+      },
+      {
         "label": "Banana Light",
         "uiTheme": "vs",
         "path": "./themes/Banana Light-color-theme.json"
@@ -25,6 +30,11 @@
         "label": "Banana Ripe",
         "uiTheme": "vs-dark",
         "path": "./themes/Banana Ripe-color-theme.json"
+      },
+      {
+        "label": "Banana Ripe-hc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Banana Ripe-HC-color-theme.json"
       }
     ]
   }
