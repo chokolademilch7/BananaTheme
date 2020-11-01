@@ -151,7 +151,7 @@
       "name": "Variables ",
       "scope": ["variable.object.property"],
       "settings": {
-        "foreground": "#F2F3EE"
+        "foreground": "#353909"
       }
     },
     {
