@@ -2,7 +2,8 @@
   "name": "banana-theme",
   "displayName": "Banana Theme",
   "description": "Banana theme.",
-  "version": "1.4.5",
+  "icon": "assets/images/icon.png",
+  "version": "1.4.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/chokolademilch7/BananaTheme"

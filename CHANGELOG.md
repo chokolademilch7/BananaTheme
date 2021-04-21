@@ -10,6 +10,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 
+- Update images/icon
+
+## [1.4.5] - 2020-4-21
+
+### Changed
+
 - Update README.md
 
 ## [1.3.0] - 2020-11-01
