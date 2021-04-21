@@ -2,7 +2,7 @@
   "name": "banana-theme",
   "displayName": "Banana Theme",
   "description": "Banana theme.",
-  "icon": "assets/images/icon.png",
+  "icon": "images/icon.png",
   "version": "1.4.6",
   "repository": {
     "type": "git",
